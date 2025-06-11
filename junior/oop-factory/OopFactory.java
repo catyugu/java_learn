@@ -1,7 +1,7 @@
 import animalpack.AnimalBase;
 import animalpack.AnimalFactory;
 
-class Main {
+class OopFactory {
     public static void main(String[] args)
     {
         AnimalBase animal;

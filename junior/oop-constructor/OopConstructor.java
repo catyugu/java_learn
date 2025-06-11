@@ -1,5 +1,5 @@
 import fooclass.FooClass;
-class Main {
+class OopConstructor {
     public static void main(String[] args)
     {
         // Constructor
