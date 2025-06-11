@@ -1,4 +1,4 @@
-package fooclass;
+package constructorfooclass;
 public class FooClass {
     double a;
     // Non-parameterized constructor

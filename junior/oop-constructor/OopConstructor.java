@@ -1,4 +1,4 @@
-import fooclass.FooClass;
+import constructorfooclass.FooClass;
 class OopConstructor {
     public static void main(String[] args)
     {
